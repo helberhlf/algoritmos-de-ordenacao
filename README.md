@@ -10,7 +10,7 @@ executadas.
 
 - Complexidade espacial consiste na quantidade de memória utilizada.
 
-Em síntese, por meio das palavras de (CORTÉS, 2015, p.10) apriprora de forma geral, tanto a complexidade temporal quanto a espacial podem ser descritas por funções que têm como parâmetro principal o tamanho 
+Em síntese, por meio das palavras de (CORTÉS, 2015, p.10) aprimora de forma geral, tanto a complexidade temporal quanto a espacial podem ser descritas por funções que têm como parâmetro principal o tamanho 
 da entrada sendo processada.
 
 Em vista disto, um ponto importante que vale apena mencionar, a palavra **algoritmo é  um processo ou conjunto de regras a serem seguidas em cálculos ou outras operações de resolução de problemas. Portanto, um algoritmo é um procedimento específico para resolver um problema computacional bem definido, algoritmo representa um a solução para um  problema se, para cada entrada, gera uma resposta correta, sempre que dispor de tempo e memória suficientes.**
