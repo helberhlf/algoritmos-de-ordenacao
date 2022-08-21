@@ -26,8 +26,6 @@ Nesse mesmo sentido, a Ciência da Computação pode ser pensada como o **<font 
 
 *Referências*:
 
-Books: 
-
 Estrutura de dados. 3°ed. Fortaleza: Universidade Estadual do Ceará,v. III, 2015
 
 Algoritmos: Teoria e prática. 2°ed. Rio de Janeiro: Departamento de Engenharia de Computação e Sistemas Digitais da Escola Politécnica da USP e Consultoria em Engenharia de Software,v. VI, 2002
