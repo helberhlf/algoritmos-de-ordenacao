@@ -1,3 +1,6 @@
+
+> <font color="red">Deus, dou graças ao senhor por me dar mais um dia para respirar, porque todos os dias é meu primeiro dia, o dia do amanha só pertence ao Senhor! Provérbios 27:1 *“Não presumas do dia de amanhã, porque não sabes o que ele trará.”*. O senhor! obrigado por me dar uma família extraordinária por me apoiar nesta grande jornada de aprendizado.</font>
+
 ### Estudo: Desenvolvimento de sistema para análise de performance de algoritmos de ordenação de dados
 
 
