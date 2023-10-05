@@ -1,5 +1,7 @@
 
-> <font color="red">Deus, dou graças ao senhor por me dar mais um dia para respirar, porque todos os dias é meu primeiro dia, o dia do amanhã só pertence ao Senhor! Provérbios 27:1 *“Não presumas do dia de amanhã, porque não sabes o que ele trará.”*. O senhor! Obrigado, por me dar uma família extraordinária em enormes circunstâncias me apoia nessa extensa jornada de aprendizado.</font>
+<font color="red">O SENHOR Deus-Todo-Poderoso, dou graças ao SENHOR por me doar mais um dia para respirar *"[...] respirar para viver"* (Eclesiastes 3.19), porque todos os dias é meu primeiro dia, o dia do amanhã só pertence ao SENHOR! Provérbios 27:1 *“Não presumas do dia de amanhã, porque não sabes o que ele trará.”*. *“Quem de vocês, por mais preocupado que esteja, pode acrescentar ao menos uma hora à sua vida.” (Mateus 6.27).* O SENHOR, na força da graça (com ação de graças ou com o coração agradecido), sou eternamente grato ao SENHOR por me abençoar com uma família extraordinária em enormes circunstâncias me apoia durante esta extensa jornada de estudo (conhecimento).</font>
+
+***
 
 ### Estudo: Desenvolvimento de sistema para análise de performance de algoritmos de ordenação de dados
 
